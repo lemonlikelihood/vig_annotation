@@ -1,3 +1,5 @@
+# fork Jinyu Li，李津羽师兄的垂直边VIO初始化学习
+
 # Rapid and Robust Monocular Visual-Inertial Initialization with Gravity Estimation via Vertical Edges
 
 This repository contains the implementation for the corresponding paper.
